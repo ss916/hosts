@@ -1,4 +1,4 @@
-# //【2020-03-19 23:36:35】
+# //【2020-03-19 23:52:39】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
