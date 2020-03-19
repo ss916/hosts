@@ -1,0 +1,283 @@
+#＃＃＃＃＃＃＃＃＃＃＃test＃＃＃＃＃＃＃＃＃＃
+#ES
+127.0.0.1 hmma.baidu.com
+127.0.0.1 conf.international.baidu.com
+127.0.0.1 www.estrongs.com
+
+#baidu
+#127.0.0.1 api.map.baidu.com
+#127.0.0.1 ps.map.baidu.com
+#127.0.0.1 sv.map.baidu.com
+#127.0.0.1 offnavi.map.baidu.com
+#127.0.0.1 newvector.map.baidu.com
+#127.0.0.1 ulog.imap.baidu.com
+#127.0.0.1 newloc.map.n.shifen.com
+
+#ali baichuan
+127.0.0.1 baichuan.taobao.com
+#aliyun
+127.0.0.1 cn.aliyun.com
+
+#fake tg
+#biyong
+127.0.0.1 www.biyong.info
+#qun duo duo
+127.0.0.1 api.qun.sh
+#im
+127.0.0.1 api.butterfly.im
+
+#      uc
+#uc sync：browser.cloud.ucweb.com/sync
+#uc u2b Video definition：vps.ucweb.com
+127.0.0.1 cms.ucweb.com
+127.0.0.1 sdkupgrade.insight.ucweb.com
+127.0.0.1 logserver.insight.ucweb.com
+127.0.0.1 insight.ucweb.com
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 gjapplog.uc.cn
+127.0.0.1 gjapplog.ucweb.com
+127.0.0.1 gj.track.uc.cn
+127.0.0.1 gjtrack.ucweb.com
+#127.0.0.1 kwurl.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 mynavi.ucweb.com
+127.0.0.1 HolmesHelp.ucweb.com
+127.0.0.1 down2.9apps.com
+127.0.0.1 www.9apps.com
+127.0.0.1 feedback.uc.cn
+127.0.0.1 espndeportes.espn.com
+127.0.0.1 hl-img.peco.uodoo.com
+#127.0.0.1 woodpecker.uc.cn
+127.0.0.1 push.maribacaberita.com
+#@127.0.0.1 acs.m.taobao.com
+127.0.0.1 amdc.m.taobao.com
+#127.0.0.1 ucus.ucweb.com
+#+127.0.0.1 vs12.bj.u3.ucweb.com
+127.0.0.1 navicms.ucweb.com
+127.0.0.1 gm.mmstat.com
+#@127.0.0.1 log.mmstat.com
+127.0.0.1 broccoli.ucweb.com
+127.0.0.1 us.ynuf.aliapp.org
+127.0.0.1 acs.maribacaberita.com
+127.0.0.1 intlsucus.ucweb.com
+#127.0.0.1 rescn.u3.ucweb.com
+127.0.0.1 iflow-in.napi.ucweb.com
+127.0.0.1 dict.headline.uodoo.com
+127.0.0.1 plugin.ucads.ucweb.com
+127.0.0.1 safe.ucweb.com
+127.0.0.1 px-intl.ucweb.com
+127.0.0.1 flow.headline.uodoo.com
+#127.0.0.1 abroad.apilocate.amap.com
+#127.0.0.1 restapi.amap.com
+#@127.0.0.1 hd.mmstat.com
+
+#yahoo
+127.0.0.1 geo.yahoo.com
+127.0.0.1 udc.yahoo.com
+127.0.0.1 sg3.beap.gemini.yahoo.com
+127.0.0.1 m.yap.yahoo.com
+127.0.0.1 radar.cedexis.com
+
+#   tx
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 btrace.qq.com
+127.0.0.1 variety.tc.qq.com
+
+#@      BT
+#btdb
+
+
+#@      NEW
+#bbc
+127.0.0.1 sa.bbc.co.uk
+127.0.0.1 js-cdn.dynatrace.com
+127.0.0.1 gwiq.globalwebindex.net
+127.0.0.1 edigitalsurvey.com
+127.0.0.1 mybbc-analytics.files.bbci.co.uk
+#127.0.0.1 nav.files.bbci.co.uk
+#nyt
+127.0.0.1 gwiqcdn.globalwebindex.net
+
+
+#@     pan
+#dropapk.com
+127.0.0.1 onclickmega.com
+127.0.0.1 z6naousb.com
+127.0.0.1 cdn.popcash.net
+127.0.0.1 go.oclasrv.com
+#dailyuploads.net
+127.0.0.1 mediapeartree.com
+127.0.0.1 shermore.info
+127.0.0.1 boostads.site
+127.0.0.1 ecdn.firstimpression.io
+#uploadocean.com
+127.0.0.1 p218176.clksite.com
+127.0.0.1 cashinme.com
+127.0.0.1 cdn.ywxi.net
+127.0.0.1 onclicksuper.com
+127.0.0.1 velocecdn.com
+127.0.0.1 api.content-ad.net
+#！127.0.0.1 cdnjs.cloudflare.com
+127.0.0.1 desgao1zt7irn.cloudfront.net
+127.0.0.1 d3al52d8cojds7.cloudfront.net
+#uploaded.net
+127.0.0.1 udarem.com
+127.0.0.1 meapk.com
+127.0.0.1 mediaoaktree.com
+127.0.0.1 askallalb.club
+127.0.0.1 madskis.com
+
+#@        video
+#iqiyi
+#AD cache：/data/data/com.qiyi.video/files/app/spgg/image/
+#127.0.0.1 static-s.iqiyi.com
+127.0.0.1 api.ts.feedback.71.am
+127.0.0.1 api.node4.ts.feedback.71.am
+
+#pronhub
+127.0.0.1 hubt.pornhub.com
+#jav18tv.com
+127.0.0.1 cdn.adpixo.com
+127.0.0.1 jwpltx.com
+127.0.0.1 omoukkkj.stream
+#popjav.com
+127.0.0.1 vhldwuv6om.com
+127.0.0.1 www.hibids10.com
+127.0.0.1 static.adult.xyz
+127.0.0.1 zo.ee
+127.0.0.1 7839e0482307b9276b.com
+#！127.0.0.1 cdn.jsdelivr.net
+127.0.0.1 fkbwtoopwg.com
+127.0.0.1 x7xirtzmot.com
+127.0.0.1 mtrcss.com
+127.0.0.1 rekovers.ru
+127.0.0.1 bodelen.com
+127.0.0.1 pushnice.com
+127.0.0.1 daibusee.com
+127.0.0.1 tdntrack.com
+127.0.0.1 ca.clcknads.pro
+127.0.0.1 cdn.acloudvideos.com
+127.0.0.1 r.remarketingpixel.com
+127.0.0.1 www.ecpms.net
+127.0.0.1 fingahvf.top
+127.0.0.1 a.o333o.com
+127.0.0.1 uod2quk646.com
+127.0.0.1 marial.pro
+127.0.0.1 go.padstm.com
+127.0.0.1 hcg82f2b.com
+127.0.0.1 pushwhy.com
+127.0.0.1 pushame.com
+127.0.0.1 www.onclicksuper.com
+127.0.0.1 c.adsco.re
+127.0.0.1 www.vidcpm.com
+127.0.0.1 5nt1gx7o57.com
+127.0.0.1 49oa3o49b6.com
+127.0.0.1 s20dh7e9dh.com
+127.0.0.1 vd.7vid.net
+127.0.0.1 gaitheed.com
+127.0.0.1 kaishist.top
+127.0.0.1 keqi7dh3df.com
+127.0.0.1 cdnondemand.org
+127.0.0.1 dolohen.com
+127.0.0.1 tharbadir.com
+127.0.0.1 koapsooh.click
+127.0.0.1 aiwhebey.com
+127.0.0.1 ad.pornimg.xyz
+127.0.0.1 stunninglover.com
+127.0.0.1 xghfi97mk6.com
+127.0.0.1 adqy6rzwcs.com
+127.0.0.1 klaudicustors.info
+127.0.0.1 ensnes.pro
+127.0.0.1 www.westatess.info
+127.0.0.1 www.emxztiidh.com
+127.0.0.1 emxztiidh.com
+#@127.0.0.1 streamango.com
+#@127.0.0.1 mixdrop.co
+127.0.0.1 86a6b542l7.com
+127.0.0.1 cdn.o333o.com
+127.0.0.1 daurifek.net
+127.0.0.1 deloplen.com
+127.0.0.1 syndication.realsrv.com
+127.0.0.1 certify.alexametrics.com
+127.0.0.1 7fkm2r4pzi.com
+127.0.0.1 prd.jwpltx.com
+127.0.0.1 certify-js.alexametrics.com
+127.0.0.1 s.click.aliexpress.com
+#hpjav.com
+127.0.0.1 static.exosrv.com
+#127.0.0.1 ads.exosrv.com
+#127.0.0.1 syndication.exosrv.com
+127.0.0.1 main.exosrv.com
+127.0.0.1 engine.spotscenered.info
+127.0.0.1 a.exdynsrv.com
+#kissjav.com
+127.0.0.1 aoredi.com
+127.0.0.1 cdn.popmyads.com
+127.0.0.1 hgub2polye.com
+127.0.0.1 syndapop.com
+127.0.0.1 pushlum.com
+#www.javjack.com
+127.0.0.1 static.javhd.com
+#javbus
+127.0.0.1 adspaces.ero-advertising.com
+127.0.0.1 ads.betfair.com
+127.0.0.1 ads2.williamhill.com
+127.0.0.1 adserving.unibet.com
+127.0.0.1 affiliate.coral.co.uk
+127.0.0.1 online.ladbrokes.com
+127.0.0.1 www.adskeeper.co.uk
+127.0.0.1 www.fleshlight.com
+127.0.0.1 www.socialsex.com
+127.0.0.1 servedbyadbutler.com
+127.0.0.1 paid.outbrain.com
+127.0.0.1 schema.org
+127.0.0.1 ad.yieldmanager.com
+
+#cili
+127.0.0.1 g2.ousns.net
+127.0.0.1 trustaffs.com
+127.0.0.1 uptimecdn.com
+127.0.0.1 velocitycdn.com
+127.0.0.1 kv.whhxnz.com
+127.0.0.1 www.tuoguang1111.com
+127.0.0.1 z.shanxiyizhao.com
+
+#mi
+#+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 resolver.msg.xiaomi.net
+#@127.0.0.1 api.io.mi.com
+127.0.0.1 ad.mi.com
+
+#hw
+127.0.0.1 push1.hicloud.com
+
+#google
+#127.0.0.1 imasdk.googleapis.com
+#127.0.0.1 s.youtube.com
+
+# Fb
+127.0.0.1 connect.facebook.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 an.facebook.com
+
+#umeng
+127.0.0.1 plbslog.umeng.com
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 ulogs.umengcloud.com
+
+#on.cc
+127.0.0.1 ad4.on.cc
+127.0.0.1 ad7.on.cc
+
+#jd
+127.0.0.1 tudg.qq.com
+
+#163
+127.0.0.1 admusicpic.music.126.net
+127.0.0.1 iadmusicmat.music.126.net
+127.0.0.1 iadmusicmatvideo.music.126.net
+
+#jianshu
+127.0.0.1 ox86.xu7b.com
+
