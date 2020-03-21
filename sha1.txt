@@ -1,4 +1,4 @@
-# //【2020-03-21 14:20:47】
+# //【2020-03-21 23:08:31】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -50,5 +50,5 @@ SHA1(/tmp/t/trojan.tgz)= 2963258a5f07b6696177dc08bad02a182a14d7cc
 SHA1(/tmp/t/trojanver)= e20d075f9540ec0b73aad7337ba583d975c24214
 SHA1(/tmp/t/v2.tgz)= 105b97190ba9e72dd91df6f000c47ec8a4f32c5d
 SHA1(/tmp/t/v2ray_arm64.tgz)= c69f33dc1f2d46d61a04a05f00e8c12c7a863f9c
-SHA1(/tmp/t/yacd-gh-pages.zip)= fee5f3a1192a5379998f224eadf7ab2e1f5d72aa
+SHA1(/tmp/t/yacd-gh-pages.zip)= 6feefb364c147afc8a201c3f48a4bc6a6af07729
 SHA1(/tmp/t/zip.tgz)= 5bf89397e17abc19fb2f0abac19d0811bc46c007
