@@ -1,4 +1,4 @@
-# //【2020-03-23 04:05:44】
+# //【2020-03-23 21:55:00】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -10,18 +10,18 @@ SHA1(/tmp/hosts/f)= 13b915e7176a389561cc984947c8dc23d612dd88
 SHA1(/tmp/hosts/f2)= 3ab7da3f365c1db9310c38616e065eb2b763cbe5
 SHA1(/tmp/hosts/hosts)= df9f756c704f9ab0db055cf8137870554fb3c608
 SHA1(/tmp/invalid.txt)= 4866933760b5a11a3b4482d2d09229c87d24a63a
-SHA1(/tmp/p)= 4c686da13fed054e9396b7523f3844e7421c6ce8
+SHA1(/tmp/p)= 5750fd46d61c4ff5fed6222d6bc780988efa87b5
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/s/a)= 6862bab821f9745777cfffa9b9d13b6d6f16660a
 SHA1(/tmp/s/c)= fc33bc53cfd57acc0e2e832284418524730d20e1
-SHA1(/tmp/s/cla)= 01837b22d4e63cff2a1751b24cec7bc9442eb362
+SHA1(/tmp/s/cla)= 14e9ee8d51ca86794d1d1172eef4ad9a12cf2f0a
 SHA1(/tmp/s/cla11)= 24b581f083f540b1d77be0b068fbaa7477b7500e
 SHA1(/tmp/s/cla2)= aaeb7139c87434d84b0d763e6d4d00034a78e7b8
 SHA1(/tmp/s/cla3)= a409c081d138f2d2e1a93db55af25b1fe30cda5c
 SHA1(/tmp/s/cla4)= c73caf48ffb251fc5c5ad9322bec560dbd55906e
 SHA1(/tmp/s/cla5)= c11f62e68ba13706e4adba5027a09873331b21af
 SHA1(/tmp/s/cla9)= 73d9e44fb4c34952470fc300b8beaafaf276c2e1
-SHA1(/tmp/s/f1)= 49aee90ca8d2ab886bc38318fc172c9be31f119c
+SHA1(/tmp/s/f1)= e7b5a7b5150153776257f0bd3e4335e254adcdc8
 SHA1(/tmp/s/f2)= 55fe99bd08635a0038498f98131889031520fc83
 SHA1(/tmp/s/f3)= bc6caeb29afe0348c35380a786dc55f765e03cf2
 SHA1(/tmp/s/f4)= 8adaba5658bc8099112a0e8858995f236e46bd92
@@ -50,7 +50,7 @@ SHA1(/tmp/t/openwrt.txt)= 7b355b6d979853958435b5638259d570908c8208
 SHA1(/tmp/t/trojan-1.14.1-linux-aarch64.tar.gz)= 5062a07305d4b6619fd5fb4f550cc38719b4e9cc
 SHA1(/tmp/t/trojan.tgz)= 2963258a5f07b6696177dc08bad02a182a14d7cc
 SHA1(/tmp/t/trojanver)= e20d075f9540ec0b73aad7337ba583d975c24214
-SHA1(/tmp/t/v2.tgz)= 105b97190ba9e72dd91df6f000c47ec8a4f32c5d
+SHA1(/tmp/t/v2.tgz)= 7c7b2c80f872331a84ff7d13040abfa553454706
 SHA1(/tmp/t/v2ray_arm64.tgz)= c69f33dc1f2d46d61a04a05f00e8c12c7a863f9c
 SHA1(/tmp/t/yacd-gh-pages.zip)= 6feefb364c147afc8a201c3f48a4bc6a6af07729
 SHA1(/tmp/t/zip.tgz)= 5bf89397e17abc19fb2f0abac19d0811bc46c007
