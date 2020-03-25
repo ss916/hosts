@@ -1,4 +1,4 @@
-# //【2020-03-25 20:51:51】
+# //【2020-03-26 00:03:44】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -14,7 +14,7 @@ SHA1(/tmp/p)= 0d4fdca5c9e35e8ac6f8512e4899f06667e47c8b
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/s/a)= 6862bab821f9745777cfffa9b9d13b6d6f16660a
 SHA1(/tmp/s/c)= fc33bc53cfd57acc0e2e832284418524730d20e1
-SHA1(/tmp/s/cla)= 8b2d2c4e472b4ad5c85264c26e650723ee6898fc
+SHA1(/tmp/s/cla)= dee320b48c6601054025be099ef893651790370e
 SHA1(/tmp/s/cla11)= 24b581f083f540b1d77be0b068fbaa7477b7500e
 SHA1(/tmp/s/cla2)= aaeb7139c87434d84b0d763e6d4d00034a78e7b8
 SHA1(/tmp/s/cla3)= a409c081d138f2d2e1a93db55af25b1fe30cda5c
@@ -47,7 +47,7 @@ SHA1(/tmp/t/clash.tgz)= 307923dfc94f937df26cc5718b28b4a9d6b12a90
 SHA1(/tmp/t/kcptunc)= 1b3236c7b88fc7552a9221ff2a874830dfc194a4
 SHA1(/tmp/t/kcptuns)= dbb777e2a16b1358e179296b61555a000aac792c
 SHA1(/tmp/t/openwrt.txt)= 7b355b6d979853958435b5638259d570908c8208
-SHA1(/tmp/t/trojan-1.14.1-linux-aarch64.tar.gz)= 5062a07305d4b6619fd5fb4f550cc38719b4e9cc
+SHA1(/tmp/t/trojan-1.15.1-linux-aarch64.tar.gz)= d488bd0ef549712a308b88ebc5899cc5a029b98c
 SHA1(/tmp/t/trojan.tgz)= d248ea8772820aee603d08c0c61e018d5d1daf88
 SHA1(/tmp/t/trojanver)= b9a520eb537fce86bf6057fe27149facc0a4c37b
 SHA1(/tmp/t/v2.tgz)= 8e6f7676dd0f9574960be15eabfa94483d72a37b
