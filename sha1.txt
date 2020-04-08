@@ -1,4 +1,4 @@
-# //【2020-04-08 04:37:48】
+# //【2020-04-08 22:10:07】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -47,8 +47,10 @@ SHA1(/tmp/t/clash-dashboard-gh-pages.tgz)= d51d25e3b4e758d6c4b1e2e65ffde03f6de4b
 SHA1(/tmp/t/clash-dashboard-gh-pages.zip)= 8f5191ce3fdc2c9ddd3ff289554bc8d937a6e36e
 SHA1(/tmp/t/clash.tgz)= d90e42dc8d4e8830751a5b3645937452c1f65065
 SHA1(/tmp/t/kcptun_arm64.tgz)= 2243f6eddcf71fc1f3ead198e01e0e8e53fc773a
-SHA1(/tmp/t/kcptunc)= e98c228aabc1b6539cb4130db35a257a14817a92
-SHA1(/tmp/t/kcptuns)= 7ed77e62b6b518c7da0ddf2ed33c09a2f7b5f596
+SHA1(/tmp/t/kcptunc)= 37d4d1215d840ecc020071dcedd22ad39320f595
+SHA1(/tmp/t/kcptunc_arm64)= e98c228aabc1b6539cb4130db35a257a14817a92
+SHA1(/tmp/t/kcptuns)= c8cbbc6fed927e8e56ff7888f48b6c07e9722d1e
+SHA1(/tmp/t/kcptuns_arm64)= 7ed77e62b6b518c7da0ddf2ed33c09a2f7b5f596
 SHA1(/tmp/t/openwrt.txt)= 7b355b6d979853958435b5638259d570908c8208
 SHA1(/tmp/t/trojan-1.15.1-linux-aarch64.tar.gz)= d488bd0ef549712a308b88ebc5899cc5a029b98c
 SHA1(/tmp/t/trojan.tgz)= d248ea8772820aee603d08c0c61e018d5d1daf88
