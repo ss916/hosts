@@ -1,4 +1,4 @@
-# //【2020-04-10 05:31:57】
+# //【2020-04-11 00:37:59】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -10,7 +10,7 @@ SHA1(/tmp/hosts/f)= 13b915e7176a389561cc984947c8dc23d612dd88
 SHA1(/tmp/hosts/f2)= 3ab7da3f365c1db9310c38616e065eb2b763cbe5
 SHA1(/tmp/hosts/hosts)= df9f756c704f9ab0db055cf8137870554fb3c608
 SHA1(/tmp/invalid.txt)= 4866933760b5a11a3b4482d2d09229c87d24a63a
-SHA1(/tmp/p)= d544da5744b66ef01b249b1485acdffffca11344
+SHA1(/tmp/p)= d616c2832cb743988cfe59cdbdf48cc574dc4390
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/s/a)= 6862bab821f9745777cfffa9b9d13b6d6f16660a
 SHA1(/tmp/s/c)= fc33bc53cfd57acc0e2e832284418524730d20e1
@@ -45,6 +45,9 @@ SHA1(/tmp/t/caddy.tgz)= 9c5d7269f41e9a2cc6cdd719c8aae3442d1bad5f
 SHA1(/tmp/t/caddy_arm64.tgz)= 8d43a2804b22efe41d69a9123d7759d75bd437be
 SHA1(/tmp/t/clash-dashboard-gh-pages.tgz)= d51d25e3b4e758d6c4b1e2e65ffde03f6de4be3f
 SHA1(/tmp/t/clash-dashboard-gh-pages.zip)= 8f5191ce3fdc2c9ddd3ff289554bc8d937a6e36e
+SHA1(/tmp/t/clash-linux-armv5-upx)= 4a127aec47febf15343d3e0718d8909814c166d6
+SHA1(/tmp/t/clash-linux-armv6-upx)= ca75445727b8cdf7e7ec0beca176ab7056e73411
+SHA1(/tmp/t/clash-linux-armv7-upx)= 72cc11bf8e1d79f39977c7a98e5a2b99f4b9b647
 SHA1(/tmp/t/clash.tgz)= d90e42dc8d4e8830751a5b3645937452c1f65065
 SHA1(/tmp/t/kcptun_arm64.tgz)= 2243f6eddcf71fc1f3ead198e01e0e8e53fc773a
 SHA1(/tmp/t/kcptunc)= 37d4d1215d840ecc020071dcedd22ad39320f595
