@@ -1,4 +1,4 @@
-# //【2020-04-17 18:17:49】
+# //【2020-04-18 00:51:54】
 SHA1(/tmp/dnsmasq/ad.conf)= 3f6d8a7614250be5b8b9aaef18f9e0ed51d6ce67
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 0c93088972594e7f58144aed1b13ee5ffb8cfae0
 SHA1(/tmp/dnsmasq/dnsfq1.conf)= 51767b1d70d0038085551cdee17a049ee12aae60
@@ -10,11 +10,11 @@ SHA1(/tmp/hosts/f)= 13b915e7176a389561cc984947c8dc23d612dd88
 SHA1(/tmp/hosts/f2)= 3ab7da3f365c1db9310c38616e065eb2b763cbe5
 SHA1(/tmp/hosts/hosts)= df9f756c704f9ab0db055cf8137870554fb3c608
 SHA1(/tmp/invalid.txt)= 4866933760b5a11a3b4482d2d09229c87d24a63a
-SHA1(/tmp/p)= 7fc9c359392df686db6263e4d1392d07a8a13a9f
+SHA1(/tmp/p)= 074c38c9979d7c1d1e8593febd01da4befdbb16c
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/s/a)= 6862bab821f9745777cfffa9b9d13b6d6f16660a
 SHA1(/tmp/s/c)= fc33bc53cfd57acc0e2e832284418524730d20e1
-SHA1(/tmp/s/cla)= 766ebb2eb62b3d3c82928077dd653535b38a92c4
+SHA1(/tmp/s/cla)= 96153047f037cd8261bf87ea2b3bd2964bc698a0
 SHA1(/tmp/s/cla11)= ecb918ddcae56927ede9d28cab890f5b0c20c7a8
 SHA1(/tmp/s/cla2)= ba5959ec7901b111830688b0a5ea571ed96d2aaf
 SHA1(/tmp/s/cla3)= 595f912da5e18eccc00df6b8023a412233abb68b
